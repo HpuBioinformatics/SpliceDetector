@@ -89,5 +89,3 @@ python train.py --organism_name oryza --splice_site_type donor --test --report
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For questions or issues, please open an issue on GitHub or contact [your.email@example.com].
