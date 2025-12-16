@@ -12,7 +12,7 @@ The DNA sequence data used for training and testing is sourced from the DRANetSp
 ### Step 1: Clone the repository
 
 ```
-git clone https://github.com/XXXXXXXX/SpliceDetector.git
+git clone https://github.com/HpuBioinformatics/SpliceDetector
 cd SpliceDetector
 ```
 
